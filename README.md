@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Power BI project analyzes call center performance to improve operational efficiency and customer satisfaction.
+This Power BI project, completed during my PwC job simulation at Forage, analyzes call center performance to improve operational efficiency and customer satisfaction.
 
 ## Dataset
 
